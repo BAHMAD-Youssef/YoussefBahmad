@@ -16,4 +16,5 @@ Here you can list or display icons of languages and tools you use, such as:
 - Soft skills: Gestion de projet, R´esolution de probl` emes.
 ## 📪 Find me at:
 - [Email](bahmaad.youssef@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/data-scientist-engineer-youssef-bahmad/)
 
