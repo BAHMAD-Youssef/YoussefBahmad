@@ -17,4 +17,4 @@ Here you can list or display icons of languages and tools you use, such as:
 ## 📪 Find me at:
 - [Email](bahmaad.youssef@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/data-scientist-engineer-youssef-bahmad/)
-
+Thank you for stopping by my profile! I'm always open to connecting and collaborating on new projects. 😊
